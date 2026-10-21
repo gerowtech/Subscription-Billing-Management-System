@@ -2,10 +2,6 @@
 
 A modern SaaS starter application for managing customers, subscription plans, recurring billing records, invoices, payments, and revenue insights. The project uses the MERN stack with a React dashboard styled using Tailwind CSS and Font Awesome icons.
 
-## Project Name
-
-**Subscription & Billing Management System**
-
 ## Description
 
 The Subscription & Billing Management System provides a centralized interface for subscription-based businesses to manage customer records, pricing plans, subscriptions, invoices, and payment activity.
