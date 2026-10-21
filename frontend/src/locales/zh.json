@@ -1,0 +1,74 @@
+{
+  "languageName": "中文",
+  "direction": "ltr",
+  "common": {
+    "home": "首页",
+    "features": "功能",
+    "plans": "套餐",
+    "subscriptions": "订阅",
+    "currencies": "货币",
+    "languages": "语言",
+    "countries": "国家",
+    "save": "保存",
+    "cancel": "取消",
+    "edit": "编辑",
+    "delete": "删除",
+    "add": "添加",
+    "search": "搜索",
+    "refresh": "刷新",
+    "actions": "操作",
+    "status": "状态",
+    "active": "启用",
+    "inactive": "停用",
+    "loading": "加载中…",
+    "noResults": "未找到结果",
+    "pageNotFound": "页面未找到",
+    "backHome": "返回首页"
+  },
+  "navigation": {
+    "home": "首页",
+    "features": "功能",
+    "plans": "套餐",
+    "faq": "常见问题",
+    "privacy": "隐私",
+    "login": "登录",
+    "register": "注册"
+  },
+  "pages": {
+    "plans": {
+      "title": "套餐",
+      "description": "管理订阅套餐。"
+    },
+    "subscriptions": {
+      "title": "订阅",
+      "description": "管理客户订阅。"
+    },
+    "currencies": {
+      "title": "货币",
+      "description": "管理支持的货币。"
+    },
+    "languages": {
+      "title": "语言",
+      "description": "管理语言和翻译内容。"
+    },
+    "countries": {
+      "title": "国家",
+      "description": "管理支持的国家。"
+    }
+  },
+  "languageSettings": {
+    "addLanguage": "添加语言",
+    "language": "语言",
+    "isoCode": "ISO 代码",
+    "flag": "旗帜",
+    "rightToLeft": "从右到左 (RTL)",
+    "font": "特殊字体",
+    "translations": "翻译",
+    "translationKey": "翻译键",
+    "translationValue": "翻译内容",
+    "saveTranslations": "保存翻译",
+    "searchPlaceholder": "搜索语言",
+    "empty": "未找到语言。",
+    "englishCannotBeDeleted": "英语是默认语言，不能删除。"
+  }
+}

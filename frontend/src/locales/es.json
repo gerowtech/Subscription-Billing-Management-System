@@ -1,0 +1,74 @@
+{
+  "languageName": "Español",
+  "direction": "ltr",
+  "common": {
+    "home": "Inicio",
+    "features": "Funciones",
+    "plans": "Planes",
+    "subscriptions": "Suscripciones",
+    "currencies": "Monedas",
+    "languages": "Idiomas",
+    "countries": "Países",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "add": "Añadir",
+    "search": "Buscar",
+    "refresh": "Actualizar",
+    "actions": "Acciones",
+    "status": "Estado",
+    "active": "Activo",
+    "inactive": "Inactivo",
+    "loading": "Cargando…",
+    "noResults": "No se encontraron resultados",
+    "pageNotFound": "Página no encontrada",
+    "backHome": "Volver al inicio"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "features": "Funciones",
+    "plans": "Planes",
+    "faq": "Preguntas frecuentes",
+    "privacy": "Privacidad",
+    "login": "Iniciar sesión",
+    "register": "Registrarse"
+  },
+  "pages": {
+    "plans": {
+      "title": "Planes",
+      "description": "Administrar planes de suscripción."
+    },
+    "subscriptions": {
+      "title": "Suscripciones",
+      "description": "Administrar suscripciones de clientes."
+    },
+    "currencies": {
+      "title": "Monedas",
+      "description": "Administrar monedas admitidas."
+    },
+    "languages": {
+      "title": "Idiomas",
+      "description": "Administrar idiomas y traducciones."
+    },
+    "countries": {
+      "title": "Países",
+      "description": "Administrar países admitidos."
+    }
+  },
+  "languageSettings": {
+    "addLanguage": "Añadir idioma",
+    "language": "Idioma",
+    "isoCode": "Código ISO",
+    "flag": "Bandera",
+    "rightToLeft": "De derecha a izquierda (RTL)",
+    "font": "Fuente especial",
+    "translations": "Traducciones",
+    "translationKey": "Clave de traducción",
+    "translationValue": "Valor de traducción",
+    "saveTranslations": "Guardar traducciones",
+    "searchPlaceholder": "Buscar idiomas",
+    "empty": "No se encontraron idiomas.",
+    "englishCannotBeDeleted": "El inglés es el idioma predeterminado y no se puede eliminar."
+  }
+}

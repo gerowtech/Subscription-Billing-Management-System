@@ -1,0 +1,11 @@
+const router = require("express").Router();
+const reports = require("../controllers/reportController");
+const { requireAuth, requireAdmin } = require("../middleware/auth");
+router.use(requireAuth, requireAdmin);
+router.get("/summary", reports.summary);
+router.get("/sales", reports.sales);
+router.get("/subscriptions", reports.subscriptions);
+router.get("/customers", reports.customers);
+router.get("/export/payments.csv", reports.exportPayments);
+router.get("/export/customers.csv", reports.exportCustomers);
+module.exports = router;

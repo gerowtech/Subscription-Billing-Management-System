@@ -1,0 +1,74 @@
+{
+  "languageName": "Français",
+  "direction": "ltr",
+  "common": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "plans": "Offres",
+    "subscriptions": "Abonnements",
+    "currencies": "Devises",
+    "languages": "Langues",
+    "countries": "Pays",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "add": "Ajouter",
+    "search": "Rechercher",
+    "refresh": "Actualiser",
+    "actions": "Actions",
+    "status": "Statut",
+    "active": "Actif",
+    "inactive": "Inactif",
+    "loading": "Chargement…",
+    "noResults": "Aucun résultat trouvé",
+    "pageNotFound": "Page introuvable",
+    "backHome": "Retour à l’accueil"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "plans": "Offres",
+    "faq": "FAQ",
+    "privacy": "Confidentialité",
+    "login": "Connexion",
+    "register": "Inscription"
+  },
+  "pages": {
+    "plans": {
+      "title": "Offres",
+      "description": "Gérer les offres d’abonnement."
+    },
+    "subscriptions": {
+      "title": "Abonnements",
+      "description": "Gérer les abonnements clients."
+    },
+    "currencies": {
+      "title": "Devises",
+      "description": "Gérer les devises prises en charge."
+    },
+    "languages": {
+      "title": "Langues",
+      "description": "Gérer les langues et les traductions."
+    },
+    "countries": {
+      "title": "Pays",
+      "description": "Gérer les pays pris en charge."
+    }
+  },
+  "languageSettings": {
+    "addLanguage": "Ajouter une langue",
+    "language": "Langue",
+    "isoCode": "Code ISO",
+    "flag": "Drapeau",
+    "rightToLeft": "De droite à gauche (RTL)",
+    "font": "Police spéciale",
+    "translations": "Traductions",
+    "translationKey": "Clé de traduction",
+    "translationValue": "Valeur de traduction",
+    "saveTranslations": "Enregistrer les traductions",
+    "searchPlaceholder": "Rechercher des langues",
+    "empty": "Aucune langue trouvée.",
+    "englishCannotBeDeleted": "L’anglais est la langue par défaut et ne peut pas être supprimé."
+  }
+}

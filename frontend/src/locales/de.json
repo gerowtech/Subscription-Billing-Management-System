@@ -1,0 +1,74 @@
+{
+  "languageName": "Deutsch",
+  "direction": "ltr",
+  "common": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "plans": "Tarife",
+    "subscriptions": "Abonnements",
+    "currencies": "Währungen",
+    "languages": "Sprachen",
+    "countries": "Länder",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "add": "Hinzufügen",
+    "search": "Suchen",
+    "refresh": "Aktualisieren",
+    "actions": "Aktionen",
+    "status": "Status",
+    "active": "Aktiv",
+    "inactive": "Inaktiv",
+    "loading": "Wird geladen…",
+    "noResults": "Keine Ergebnisse gefunden",
+    "pageNotFound": "Seite nicht gefunden",
+    "backHome": "Zurück zur Startseite"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "plans": "Tarife",
+    "faq": "FAQ",
+    "privacy": "Datenschutz",
+    "login": "Anmelden",
+    "register": "Registrieren"
+  },
+  "pages": {
+    "plans": {
+      "title": "Tarife",
+      "description": "Abonnementtarife verwalten."
+    },
+    "subscriptions": {
+      "title": "Abonnements",
+      "description": "Kundenabonnements verwalten."
+    },
+    "currencies": {
+      "title": "Währungen",
+      "description": "Unterstützte Währungen verwalten."
+    },
+    "languages": {
+      "title": "Sprachen",
+      "description": "Sprachen und Übersetzungen verwalten."
+    },
+    "countries": {
+      "title": "Länder",
+      "description": "Unterstützte Länder verwalten."
+    }
+  },
+  "languageSettings": {
+    "addLanguage": "Sprache hinzufügen",
+    "language": "Sprache",
+    "isoCode": "ISO-Code",
+    "flag": "Flagge",
+    "rightToLeft": "Von rechts nach links (RTL)",
+    "font": "Spezielle Schriftart",
+    "translations": "Übersetzungen",
+    "translationKey": "Übersetzungsschlüssel",
+    "translationValue": "Übersetzungswert",
+    "saveTranslations": "Übersetzungen speichern",
+    "searchPlaceholder": "Sprachen suchen",
+    "empty": "Keine Sprachen gefunden.",
+    "englishCannotBeDeleted": "Englisch ist die Standardsprache und kann nicht gelöscht werden."
+  }
+}

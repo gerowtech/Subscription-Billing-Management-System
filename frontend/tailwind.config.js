@@ -1,0 +1,1 @@
+export default { important: true, content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"], theme: { extend: { colors: { ink: "#0c0d10", panel: "#191a20", line: "#292b34", accent: "#438cff" } } }, plugins: [] };

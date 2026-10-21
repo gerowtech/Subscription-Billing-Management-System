@@ -1,0 +1,10 @@
+[
+  { "name": "Arabic", "code": "ar", "flag": "", "rtl": true, "font": false, "translations": { "dashboard": "لوحة التحكم", "settings": "الإعدادات", "logout": "تسجيل الخروج" } },
+  { "name": "Chinese", "code": "zh", "flag": "", "rtl": false, "font": false, "translations": { "dashboard": "仪表板", "settings": "设置", "logout": "退出登录" } },
+  { "name": "English", "code": "en", "flag": "", "rtl": false, "font": false, "translations": { "dashboard": "Dashboard", "settings": "Settings", "logout": "Logout" } },
+  { "name": "French", "code": "fr", "flag": "", "rtl": false, "font": false, "translations": { "dashboard": "Tableau de bord", "settings": "Paramètres", "logout": "Déconnexion" } },
+  { "name": "German", "code": "de", "flag": "", "rtl": false, "font": false, "translations": { "dashboard": "Dashboard", "settings": "Einstellungen", "logout": "Abmelden" } },
+  { "name": "Portuguese", "code": "pt", "flag": "", "rtl": false, "font": false, "translations": { "dashboard": "Painel", "settings": "Configurações", "logout": "Sair" } },
+  { "name": "Spanish", "code": "es", "flag": "", "rtl": false, "font": false, "translations": { "dashboard": "Panel", "settings": "Configuración", "logout": "Cerrar sesión" } },
+  { "name": "Urdu", "code": "ur", "flag": "", "rtl": true, "font": false, "translations": { "dashboard": "ڈیش بورڈ", "settings": "ترتیبات", "logout": "لاگ آؤٹ" } }
+]

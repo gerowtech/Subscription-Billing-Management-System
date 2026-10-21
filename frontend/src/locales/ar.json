@@ -1,0 +1,74 @@
+{
+  "languageName": "العربية",
+  "direction": "rtl",
+  "common": {
+    "home": "الرئيسية",
+    "features": "الميزات",
+    "plans": "الخطط",
+    "subscriptions": "الاشتراكات",
+    "currencies": "العملات",
+    "languages": "اللغات",
+    "countries": "الدول",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "add": "إضافة",
+    "search": "بحث",
+    "refresh": "تحديث",
+    "actions": "الإجراءات",
+    "status": "الحالة",
+    "active": "نشط",
+    "inactive": "غير نشط",
+    "loading": "جارٍ التحميل…",
+    "noResults": "لم يتم العثور على نتائج",
+    "pageNotFound": "الصفحة غير موجودة",
+    "backHome": "العودة إلى الرئيسية"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "features": "الميزات",
+    "plans": "الخطط",
+    "faq": "الأسئلة الشائعة",
+    "privacy": "الخصوصية",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب"
+  },
+  "pages": {
+    "plans": {
+      "title": "الخطط",
+      "description": "إدارة خطط الاشتراك."
+    },
+    "subscriptions": {
+      "title": "الاشتراكات",
+      "description": "إدارة اشتراكات العملاء."
+    },
+    "currencies": {
+      "title": "العملات",
+      "description": "إدارة العملات المدعومة."
+    },
+    "languages": {
+      "title": "اللغات",
+      "description": "إدارة اللغات ومحتوى الترجمة."
+    },
+    "countries": {
+      "title": "الدول",
+      "description": "إدارة الدول المدعومة."
+    }
+  },
+  "languageSettings": {
+    "addLanguage": "إضافة لغة",
+    "language": "اللغة",
+    "isoCode": "رمز ISO",
+    "flag": "العلم",
+    "rightToLeft": "من اليمين إلى اليسار (RTL)",
+    "font": "خط خاص",
+    "translations": "الترجمات",
+    "translationKey": "مفتاح الترجمة",
+    "translationValue": "قيمة الترجمة",
+    "saveTranslations": "حفظ الترجمات",
+    "searchPlaceholder": "البحث عن اللغات",
+    "empty": "لم يتم العثور على لغات.",
+    "englishCannotBeDeleted": "الإنجليزية هي اللغة الافتراضية ولا يمكن حذفها."
+  }
+}

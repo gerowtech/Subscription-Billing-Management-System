@@ -1,0 +1,74 @@
+{
+  "languageName": "Português",
+  "direction": "ltr",
+  "common": {
+    "home": "Início",
+    "features": "Recursos",
+    "plans": "Planos",
+    "subscriptions": "Assinaturas",
+    "currencies": "Moedas",
+    "languages": "Idiomas",
+    "countries": "Países",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "add": "Adicionar",
+    "search": "Pesquisar",
+    "refresh": "Atualizar",
+    "actions": "Ações",
+    "status": "Status",
+    "active": "Ativo",
+    "inactive": "Inativo",
+    "loading": "Carregando…",
+    "noResults": "Nenhum resultado encontrado",
+    "pageNotFound": "Página não encontrada",
+    "backHome": "Voltar ao início"
+  },
+  "navigation": {
+    "home": "Início",
+    "features": "Recursos",
+    "plans": "Planos",
+    "faq": "Perguntas frequentes",
+    "privacy": "Privacidade",
+    "login": "Entrar",
+    "register": "Cadastrar"
+  },
+  "pages": {
+    "plans": {
+      "title": "Planos",
+      "description": "Gerenciar planos de assinatura."
+    },
+    "subscriptions": {
+      "title": "Assinaturas",
+      "description": "Gerenciar assinaturas de clientes."
+    },
+    "currencies": {
+      "title": "Moedas",
+      "description": "Gerenciar moedas aceitas."
+    },
+    "languages": {
+      "title": "Idiomas",
+      "description": "Gerenciar idiomas e traduções."
+    },
+    "countries": {
+      "title": "Países",
+      "description": "Gerenciar países aceitos."
+    }
+  },
+  "languageSettings": {
+    "addLanguage": "Adicionar idioma",
+    "language": "Idioma",
+    "isoCode": "Código ISO",
+    "flag": "Bandeira",
+    "rightToLeft": "Da direita para a esquerda (RTL)",
+    "font": "Fonte especial",
+    "translations": "Traduções",
+    "translationKey": "Chave de tradução",
+    "translationValue": "Valor da tradução",
+    "saveTranslations": "Salvar traduções",
+    "searchPlaceholder": "Pesquisar idiomas",
+    "empty": "Nenhum idioma encontrado.",
+    "englishCannotBeDeleted": "O inglês é o idioma padrão e não pode ser excluído."
+  }
+}

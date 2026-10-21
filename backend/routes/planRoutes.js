@@ -1,0 +1,2 @@
+const router=require("express").Router(),c=require("../controllers/planController"),{requireAuth,requireAdmin}=require("../middleware/auth");
+router.get("/",c.list);router.get("/admin",requireAuth,requireAdmin,c.adminList);router.post("/",requireAuth,requireAdmin,c.create);router.put("/:id",requireAuth,requireAdmin,c.update);router.delete("/:id",requireAuth,requireAdmin,c.disable);module.exports=router;

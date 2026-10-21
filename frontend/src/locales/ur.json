@@ -1,0 +1,74 @@
+{
+  "languageName": "اردو",
+  "direction": "rtl",
+  "common": {
+    "home": "صفحۂ اول",
+    "features": "خصوصیات",
+    "plans": "پیکجز",
+    "subscriptions": "سبسکرپشنز",
+    "currencies": "کرنسیاں",
+    "languages": "زبانیں",
+    "countries": "ممالک",
+    "save": "محفوظ کریں",
+    "cancel": "منسوخ کریں",
+    "edit": "ترمیم کریں",
+    "delete": "حذف کریں",
+    "add": "شامل کریں",
+    "search": "تلاش کریں",
+    "refresh": "تازہ کریں",
+    "actions": "اقدامات",
+    "status": "حیثیت",
+    "active": "فعال",
+    "inactive": "غیر فعال",
+    "loading": "لوڈ ہو رہا ہے…",
+    "noResults": "کوئی نتیجہ نہیں ملا",
+    "pageNotFound": "صفحہ نہیں ملا",
+    "backHome": "صفحۂ اول پر واپس جائیں"
+  },
+  "navigation": {
+    "home": "صفحۂ اول",
+    "features": "خصوصیات",
+    "plans": "پیکجز",
+    "faq": "اکثر پوچھے گئے سوالات",
+    "privacy": "رازداری",
+    "login": "لاگ اِن",
+    "register": "رجسٹر کریں"
+  },
+  "pages": {
+    "plans": {
+      "title": "پیکجز",
+      "description": "سبسکرپشن پیکجز کا انتظام کریں۔"
+    },
+    "subscriptions": {
+      "title": "سبسکرپشنز",
+      "description": "صارفین کی سبسکرپشنز کا انتظام کریں۔"
+    },
+    "currencies": {
+      "title": "کرنسیاں",
+      "description": "معاون کرنسیوں کا انتظام کریں۔"
+    },
+    "languages": {
+      "title": "زبانیں",
+      "description": "زبانوں اور ترجمے کے مواد کا انتظام کریں۔"
+    },
+    "countries": {
+      "title": "ممالک",
+      "description": "معاون ممالک کا انتظام کریں۔"
+    }
+  },
+  "languageSettings": {
+    "addLanguage": "زبان شامل کریں",
+    "language": "زبان",
+    "isoCode": "ISO کوڈ",
+    "flag": "جھنڈا",
+    "rightToLeft": "دائیں سے بائیں (RTL)",
+    "font": "خصوصی فونٹ",
+    "translations": "تراجم",
+    "translationKey": "ترجمے کی کلید",
+    "translationValue": "ترجمے کا متن",
+    "saveTranslations": "تراجم محفوظ کریں",
+    "searchPlaceholder": "زبانیں تلاش کریں",
+    "empty": "کوئی زبان نہیں ملی۔",
+    "englishCannotBeDeleted": "انگریزی ڈیفالٹ زبان ہے، اسے حذف نہیں کیا جا سکتا۔"
+  }
+}

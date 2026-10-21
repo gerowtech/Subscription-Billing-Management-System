@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+<title id="title">Hero Banner</title><desc id="desc">A clear headline and call to action</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eaf6ff"/><stop offset="1" stop-color="#c7e6ff"/></linearGradient></defs>
+<rect width="640" height="360" rx="22" fill="url(#bg)"/><rect x="34" y="32" width="572" height="296" rx="18" fill="#fff" stroke="#d4e8f8"/>
+<circle cx="76" cy="72" r="10" fill="#2496dc"/><rect x="96" y="64" width="122" height="14" rx="7" fill="#9abed9"/>
+<rect x="66" y="112" width="245" height="22" rx="8" fill="#1d5e8b"/><rect x="66" y="150" width="290" height="10" rx="5" fill="#c0d5e5"/><rect x="66" y="170" width="230" height="10" rx="5" fill="#d5e3ed"/>
+<rect x="66" y="212" width="128" height="38" rx="10" fill="#168bd0"/><rect x="212" y="224" width="96" height="10" rx="5" fill="#c5dce9"/>
+<rect x="390" y="112" width="178" height="150" rx="14" fill="#edf7fd" stroke="#c9e5f6"/><circle cx="479" cy="164" r="28" fill="#2496dc" opacity=".9"/><path d="M465 164l10 10 20-23" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><rect x="420" y="210" width="118" height="9" rx="4" fill="#a8c9df"/><rect x="438" y="228" width="82" height="9" rx="4" fill="#d0e3ef"/>
+<text x="66" y="292" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#1d5e8b">Hero Banner</text><text x="66" y="313" font-family="Arial,sans-serif" font-size="12" fill="#577a94">A clear headline and call to action</text></svg>

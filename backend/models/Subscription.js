@@ -1,0 +1,3 @@
+const mongoose=require("mongoose");
+const schema=new mongoose.Schema({user:{type:mongoose.Schema.Types.ObjectId,ref:"User",required:true,index:true},plan:{type:mongoose.Schema.Types.ObjectId,ref:"Plan",required:true},status:{type:String,enum:["trialing","active","past_due","canceled","expired"],default:"active",index:true},startsAt:{type:Date,required:true},currentPeriodStart:{type:Date,required:true},currentPeriodEnd:{type:Date,required:true},cancelAtPeriodEnd:{type:Boolean,default:false},canceledAt:{type:Date,default:null},externalCustomerId:{type:String,default:null},externalSubscriptionId:{type:String,default:null}},{timestamps:true});
+schema.index({user:1,status:1});schema.index({externalSubscriptionId:1});module.exports=mongoose.model("Subscription",schema);

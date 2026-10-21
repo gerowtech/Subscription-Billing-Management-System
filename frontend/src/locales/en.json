@@ -1,0 +1,74 @@
+{
+  "languageName": "English",
+  "direction": "ltr",
+  "common": {
+    "home": "Home",
+    "features": "Features",
+    "plans": "Plans",
+    "subscriptions": "Subscriptions",
+    "currencies": "Currencies",
+    "languages": "Languages",
+    "countries": "Countries",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add",
+    "search": "Search",
+    "refresh": "Refresh",
+    "actions": "Actions",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "loading": "Loading…",
+    "noResults": "No results found",
+    "pageNotFound": "Page not found",
+    "backHome": "Back home"
+  },
+  "navigation": {
+    "home": "Home",
+    "features": "Features",
+    "plans": "Plans",
+    "faq": "FAQ",
+    "privacy": "Privacy",
+    "login": "Login",
+    "register": "Register"
+  },
+  "pages": {
+    "plans": {
+      "title": "Plans",
+      "description": "Manage subscription plans."
+    },
+    "subscriptions": {
+      "title": "Subscriptions",
+      "description": "Manage customer subscriptions."
+    },
+    "currencies": {
+      "title": "Currencies",
+      "description": "Manage supported currencies."
+    },
+    "languages": {
+      "title": "Languages",
+      "description": "Manage languages and translation content."
+    },
+    "countries": {
+      "title": "Countries",
+      "description": "Manage supported countries."
+    }
+  },
+  "languageSettings": {
+    "addLanguage": "Add Language",
+    "language": "Language",
+    "isoCode": "ISO code",
+    "flag": "Flag",
+    "rightToLeft": "Right to left (RTL)",
+    "font": "Special font",
+    "translations": "Translations",
+    "translationKey": "Translation key",
+    "translationValue": "Translation value",
+    "saveTranslations": "Save translations",
+    "searchPlaceholder": "Search languages",
+    "empty": "No languages found.",
+    "englishCannotBeDeleted": "English is the default language and cannot be deleted."
+  }
+}

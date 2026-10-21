@@ -1,0 +1,25 @@
+{
+  "name": "strafemc",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "concurrently -n backend,frontend -c blue,green \"npm run dev -w backend\" \"npm run dev -w frontend\"",
+    "build": "npm run build -w frontend",
+    "start": "npm run start -w backend",
+    "seed": "npm run seed -w backend",
+    "update-admin": "npm run update-admin -w backend",
+    "install:all": "npm install",
+    "check": "npm run build -w frontend",
+    "create:strafemc": "npm run seed -w backend",
+    "seed:strafemc": "npm run seed -w backend",
+    "seed:payment-methods": "npm run seed:payment-methods -w backend"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "dependencies": {}
+}
