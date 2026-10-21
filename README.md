@@ -156,9 +156,8 @@ Replace `<your-repository-url>` with your actual Git repository URL.
 Run these commands from the project root:
 
 ```bash
-npm install
-npm --prefix server install
-npm --prefix client install
+npm run install:all
+npm run dev
 ```
 
 ### 3. Configure Environment Variables
